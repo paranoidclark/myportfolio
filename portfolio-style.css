@@ -209,7 +209,7 @@ body {
     box-shadow: 5px 5px #2f3640;
 }
 
-.demo-gif video {
+.demo-gif img {
     width: 800px;
     height: auto;
     border: 4px solid black;
